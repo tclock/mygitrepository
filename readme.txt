@@ -14,3 +14,4 @@ git is free software under the GPL.
 
 添加dev分支
 dev分支开发
+1.0bug修复
