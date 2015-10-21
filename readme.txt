@@ -15,6 +15,11 @@ git is free software under the GPL.
 添加dev分支
 dev分支开发
 1.0bug修复。。。。。。，，
+<<<<<<< HEAD
 dev开发1.1版本功能
 1.0bug修复版本1111
 feture1功能分支测试
+=======
+1.0bug修复版本1111
+1.0bug修复版本2222
+>>>>>>> master
